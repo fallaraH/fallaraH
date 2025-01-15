@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm suck at this
+I suck at this
 <!--   
 **fallaraH/fallaraH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
